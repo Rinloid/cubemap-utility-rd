@@ -5,4 +5,6 @@ Only supports Windows currently.
 # Features
 - Disable animated textures
 - Disable particles
+- Disable water
+- Disable lightmap
 - Make the skies pink to make them transparent easily
