@@ -7,4 +7,5 @@ Only supports Windows currently.
 - Disable particles
 - Disable water
 - Disable lightmap
+- Disable fogs
 - Make the skies pink to make them transparent easily
