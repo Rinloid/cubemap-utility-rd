@@ -35,6 +35,5 @@ void main() {
     diffuse.a = 1.0;
 #endif
 
-    diffuse.rgb = mix(diffuse.rgb, FogColor.rgb, v_fog.a);
     gl_FragColor = diffuse;
 }
